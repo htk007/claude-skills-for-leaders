@@ -23,7 +23,7 @@ These skills do the heavy lifting so you don't have to.
 | Role | Skill | Status |
 |------|-------|--------|
 | **TL** — Tech Lead | [Code Review Feedback Generator](./TL/code-review-feedback.md) | ✅ Live |
-| **EM** — Engineering Manager | Performance Review Writer | 🔜 Coming soon |
+| **EM** — Engineering Manager | Performance Review Writer | ✅ Live |
 | **EM** — Engineering Manager | 1:1 Meeting Prep Assistant | 🔜 Coming soon |
 | **PM** — Product Manager | User Story Generator | 🔜 Coming soon |
 | **HRM** — HR Manager | Job Description Writer | 🔜 Coming soon |
