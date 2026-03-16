@@ -1,9 +1,9 @@
-# 🧠 Claude Skills for Leaders
+#  Claude Skills for Leaders
 
 > Practical, ready-to-use Claude skills for Engineering Managers, Tech Leads, Product Managers, and HR Managers.
 
 Most Claude skills are built for developers writing code.  
-This repo is built for **leaders** — the people managing teams, running reviews, writing feedback, and making high-stakes decisions every day.
+This repo is built for **leaders**  the people managing teams, running reviews, writing feedback, and making high-stakes decisions every day.
 
 ---
 
@@ -18,21 +18,19 @@ These skills do the heavy lifting so you don't have to.
 
 ---
 
-## 📁 Skill Library
+##  Skill Library
 
-| Role | Skill | Status |
-|------|-------|--------|
-| **TL** — Tech Lead | [Code Review Feedback Generator](./TL/code-review-feedback.md) | ✅ Live |
-| **EM** — Engineering Manager | Performance Review Writer | ✅ Live |
-| **EM** — Engineering Manager | 1:1 Meeting Prep Assistant | 🔜 Coming soon |
-| **PM** — Product Manager | User Story Generator | 🔜 Coming soon |
-| **HRM** — HR Manager | Job Description Writer | 🔜 Coming soon |
+| Role | Status |
+|------|--------|
+| **EM** — Engineering Manager | ✅ Live |
+| **TL** — Tech Lead | 🔜 Coming soon |
+| **PM** — Product Manager | 🔜 Coming soon |
 
 New skills drop every week. Watch this repo to get notified.
 
 ---
 
-## 🚀 How to Use a Skill
+## How to Use a Skill
 
 1. Open [Claude.ai](https://claude.ai) → **Settings → Skills**
 2. Click **New Skill**
@@ -44,7 +42,7 @@ No setup. No API keys. No code. Just copy, paste, and go.
 
 ---
 
-## 📐 Skill Format
+## Skill Format
 
 Every skill in this repo follows the same structure:
 
@@ -55,7 +53,7 @@ Every skill in this repo follows the same structure:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Found a use case that's missing? PRs are welcome.  
 Please follow the existing skill format and test your skill before submitting.
@@ -64,11 +62,11 @@ Open an [issue](../../issues) to request a specific skill.
 
 ---
 
-## 📬 Stay in the Loop
+## Stay in the Loop
 
 New skills added weekly.  
 ⭐ Star this repo to follow along.  
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) for updates and context behind each skill.
+Connect on [LinkedIn](https://www.linkedin.com/in/hasankaya-ln2018/) for updates and context behind each skill.
 
 ---
 
