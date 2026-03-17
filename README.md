@@ -70,4 +70,4 @@ Connect on [LinkedIn](https://www.linkedin.com/in/hasankaya-ln2018/) for updates
 
 ---
 
-*Built by an Engineering Manager — for leaders who want to work smarter with AI.*
+*Built by an Hasan Kaya — for leaders who want to work smarter with AI.*
