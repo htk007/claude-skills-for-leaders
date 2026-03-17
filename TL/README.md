@@ -14,7 +14,7 @@ Tech Leads sit at the intersection of hands-on engineering and team leadership. 
 | Architecture Decision Record (ADR) Writer | Document architectural decisions with context, options considered, and rationale — in a format the whole team can reference later | ✅ Live |
 | Technical Debt Prioritization Assistant | Assess and rank your backlog of tech debt items by impact, effort, and risk — with a recommendation on what to tackle first | ✅ Live |
 | On-Call Incident Summary Writer | Turn raw incident notes into a structured post-mortem: timeline, root cause, impact, and action items | ✅ Live  |
-| Tech Spec / RFC Template Generator | Draft a complete technical specification or RFC from a rough idea — ready for team review and discussion | 🔜 Coming soon |
+| Tech Spec / RFC Template Generator | Draft a complete technical specification or RFC from a rough idea — ready for team review and discussion | ✅ Live |
 
 ---
 
