@@ -56,7 +56,7 @@ Engineering Manager skills focus on **people and process** — performance, grow
 
 Some skills overlap (e.g., both TLs and EMs give feedback) but the framing, tone, and output are calibrated for each role.
 
-If you're an EM who also serves as Tech Lead, check the [TL folder](../tech-lead/) too — many EMs use both.
+If you're an EM who also serves as Tech Lead, check the [TL folder](../TL/) too — many EMs use both.
 
 ---
 
