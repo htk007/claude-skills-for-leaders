@@ -37,11 +37,3 @@ Tech Lead skills focus on **code and technical decisions** — review feedback, 
 Engineering Manager skills focus on **people and process** — performance reviews, 1:1s, OKRs, promotion cases.
 
 If you're a TL who also manages people, check the [EM folder](../EM/) too — many TLs use both.
-
----
-
-## 📬 Stay in the Loop
-
-New skills added weekly.  
-⭐ Star the repo to get notified.  
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) for context behind each skill.
