@@ -13,7 +13,7 @@ Engineering Managers operate at the intersection of people and product. The skil
 | Performance Review Writer | Turn raw notes into structured, fair, growth-oriented reviews | ✅ Live |
 | 1:1 Meeting Prep Assistant | Generate focused agendas and talking points before every 1:1 | ✅ Live  |
 | OKR Breakdown Assistant | Translate team goals into clear, measurable key results | ✅ Live  |
-| Sprint Retrospective Facilitator | Structure retro outcomes into actionable team summaries | 🔜 Coming soon |
+| Sprint Retrospective Facilitator | Structure retro outcomes into actionable team summaries | ✅ Live |
 | Promotion Case Writer | Build a compelling, evidence-based case for a team member's promotion | 🔜 Coming soon |
 
 
