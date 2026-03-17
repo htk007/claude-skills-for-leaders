@@ -38,5 +38,3 @@ Engineering Manager skills focus on **people and process** — performance, grow
 
 Some skills overlap (e.g., both TLs and EMs give feedback) but the framing, tone, and output are calibrated for each role.
 
----
-
