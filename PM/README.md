@@ -10,7 +10,7 @@ PMs and Project Managers produce a constant stream of written output: requiremen
 
 | Skill | What It Solves | Status |
 |-------|----------------|--------|
-| User Story Generator | Turn a rough feature idea into well-structured user stories with acceptance criteria — ready for sprint grooming | 🔜 Coming soon |
+| User Story Generator | Turn a rough feature idea into well-structured user stories with acceptance criteria — ready for sprint grooming | ✅ Live |
 | PRD Writer | Draft a complete Product Requirements Document from a brief — with problem statement, goals, scope, and open questions | 🔜 Coming soon |
 | Stakeholder Update Generator | Transform bullet-point progress notes into a polished stakeholder update — right tone, right level of detail | 🔜 Coming soon |
 | Sprint Planning Assistant | Analyze your backlog and generate a sprint plan with capacity considerations, priorities, and a summary for the team | 🔜 Coming soon |
@@ -40,9 +40,3 @@ Both roles are covered here. The distinction matters for some skills:
 Where it matters, each skill will note which role it's optimized for — and offer variations for the other.
 
 ---
-
-## 📬 Stay in the Loop
-
-New skills added weekly.  
-⭐ Star the repo to get notified.  
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) for context behind each skill.
