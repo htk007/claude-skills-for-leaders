@@ -40,8 +40,3 @@ Some skills overlap (e.g., both TLs and EMs give feedback) but the framing, tone
 
 ---
 
-## 📬 Stay in the Loop
-
-New skills added weekly.  
-⭐ Star the repo to get notified.  
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) for context behind each skill.
