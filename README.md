@@ -23,8 +23,8 @@ These skills do the heavy lifting so you don't have to.
 | Role | Status |
 |------|--------|
 | **EM** — Engineering Manager | ✅ Live |
-| **TL** — Tech Lead | 🔜 Coming soon |
-| **PM** — Product Manager | 🔜 Coming soon |
+| **TL** — Tech Lead | ✅ Live |
+| **PM** — Product Manager | ✅ Live|
 
 New skills drop every week. Watch this repo to get notified.
 
