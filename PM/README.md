@@ -38,5 +38,3 @@ Both roles are covered here. The distinction matters for some skills:
 - **Project Manager** focus: sprint planning, stakeholder updates, risk tracking, delivery summaries
 
 Where it matters, each skill will note which role it's optimized for — and offer variations for the other.
-
----
