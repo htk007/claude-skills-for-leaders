@@ -24,7 +24,7 @@ These skills do the heavy lifting so you don't have to.
 |------|--------|
 | **EM** — Engineering Manager | ✅ Live |
 | **TL** — Tech Lead | ✅ Live |
-| **PM** — Product Manager | ✅ Live|
+| **PM** — Product Manager & Project Manager | ✅ Live|
 
 New skills drop every week. Watch this repo to get notified.
 
