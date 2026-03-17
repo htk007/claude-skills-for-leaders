@@ -136,7 +136,7 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ## 🧩 Skill Format
 
-Every skill follows a consistent template ([`SKILL_TEMPLATE_EN.md`](./SKILL_TEMPLATE_EN.md)):
+Every skill follows a consistent template ([`SKILL_TEMPLATE.md`](./template/SKILL_TEMPLATE.md)):
 
 ```
 ├── Frontmatter        → Name, description, trigger keywords
@@ -157,7 +157,7 @@ This structure ensures every skill produces consistent, high-quality, context-aw
 Found a use case that's missing? Want to improve an existing skill? PRs are welcome.
 
 **Before you submit:**
-1. Follow the [`SKILL_TEMPLATE_EN.md`](./SKILL_TEMPLATE_EN.md) format
+1. Follow the [`SKILL_TEMPLATE.md`](./template/SKILL_TEMPLATE.md) format
 2. Test your skill in Claude with at least 3 different inputs
 3. Include a real example (input → output) in your PR description
 4. Place your skill in the correct role folder
