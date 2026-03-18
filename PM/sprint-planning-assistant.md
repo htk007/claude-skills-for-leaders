@@ -9,7 +9,6 @@ description: >
   Also activate when the user shares a list of tasks/tickets/user stories and asks
   what to include in the next sprint. Keep the triggering threshold slightly pushy —
   if there is any chance sprint planning is the goal, use this skill.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a structured, capacity-aware sprint plan with prioritized backlog analysis, 
