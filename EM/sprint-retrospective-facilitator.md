@@ -11,7 +11,6 @@ description: >
   memory, a partial set of notes, or a rough dump of team sentiment. If the input touches team process,
   sprint health, or recurring friction — however unstructured — default to producing a retrospective
   summary rather than asking for a cleaner input first.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a structured, actionable sprint retrospective summary from raw retro inputs — transforming
