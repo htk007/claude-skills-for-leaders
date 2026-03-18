@@ -34,7 +34,7 @@ Claude can help with all of this — but only with the right skill behind it.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```
 1. Open Claude.ai → Settings → Claude Code Skills
@@ -48,9 +48,9 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ---
 
-## 📚 Skill Library
+## Skill Library
 
-### ⚙️ [Engineering Manager Skills](./engineering-manager/)
+### [Engineering Manager Skills](./engineering-manager/)
 
 > For the people responsible for team health, performance, delivery, and growth.
 
@@ -74,7 +74,7 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ---
 
-### 🔧 [Tech Lead Skills](./tech-lead/)
+### [Tech Lead Skills](./tech-lead/)
 
 > For the people responsible for code quality, architectural decisions, technical direction, and engineering standards.
 
@@ -98,7 +98,7 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ---
 
-### 📦 [Product & Project Manager Skills](./product-project-manager/)
+### [Product & Project Manager Skills](./product-project-manager/)
 
 > For the people responsible for defining what gets built, why it matters, and how the work gets delivered.
 
@@ -122,7 +122,7 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 | Phase | What | Status |
 |-------|------|--------|
@@ -134,7 +134,7 @@ No setup. No API keys. No code. Copy, paste, go.
 
 ---
 
-## 🧩 Skill Format
+## Skill Format
 
 Every skill follows a consistent template ([`SKILL_TEMPLATE.md`](./template/SKILL_TEMPLATE.md)):
 
@@ -152,7 +152,7 @@ This structure ensures every skill produces consistent, high-quality, context-aw
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Found a use case that's missing? Want to improve an existing skill? PRs are welcome.
 
@@ -166,7 +166,7 @@ Open an [issue](../../issues) to request a specific skill or suggest a new role 
 
 ---
 
-## 📊 Stats
+## Stats
 
 | Metric | Count |
 |--------|-------|
