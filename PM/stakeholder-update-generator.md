@@ -12,7 +12,6 @@ description: >
   information of any kind — risks, decisions, blockers, milestones, metrics — default to producing a
   stakeholder update rather than asking for more structure first. Raw input is the expected starting
   point; shaping it is the skill's job.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a polished, audience-calibrated stakeholder update from raw progress notes — with the right
