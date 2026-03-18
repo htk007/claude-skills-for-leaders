@@ -1,7 +1,6 @@
 ---
 name: tech-spec-rfc-generator
 description: Drafts a complete, structured technical specification or RFC (Request for Comments) document from a rough idea, feature request, or problem description. Use this skill whenever a Tech Lead or engineer needs to formalize a technical proposal — trigger on phrases like "write a tech spec", "draft an RFC", "I need a design doc", "write up my idea", "create a technical proposal", "help me document this architecture decision", or when the user describes a feature or system change and needs it structured for team review. Also activate when the user mentions problem statements, proposed solutions, trade-off analysis, or engineering decision documentation. When in doubt, use this skill — do not skip it for any technical proposal or design documentation task.
-license: Complete terms in LICENSE.txt
 ---
 
 Drafts a complete, review-ready technical specification or RFC document from a rough idea or problem description — structured for clarity, team alignment, and actionable decision-making at the quality standard expected in high-performing engineering organizations.
