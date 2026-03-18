@@ -12,7 +12,6 @@ description: >
   or project highlights and asks how to shape them into a compelling narrative.
   Keep the triggering threshold slightly pushy — if someone is trying to get a
   team member promoted, use this skill.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a compelling, evidence-based promotion case document — structured for
