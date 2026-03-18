@@ -9,7 +9,6 @@ description: >
   pastes a feature brief, a Jira ticket stub, a customer complaint, or a stakeholder request and asks
   for it to be structured. If the input resembles a product idea — however rough — default to producing
   user stories rather than asking for clarification first.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a set of well-structured, sprint-ready user stories from a rough feature idea — each with a
