@@ -1,7 +1,6 @@
 ---
 name: oncall-incident-summary-writer
 description: Transforms raw on-call notes, Slack threads, alert dumps, or informal incident logs into a structured, professional post-mortem document. Use this skill whenever a Tech Lead or engineer needs to document an incident — trigger on phrases like "write a post-mortem", "summarize the incident", "RCA write-up", "document the outage", "turn my notes into a report", or when the user pastes raw incident notes and asks for help. Also activate when the user mentions timeline reconstruction, root cause analysis, impact assessment, or action items in a production incident context. When in doubt, use this skill — do not skip it for any incident-related writing task.
-license: Complete terms in LICENSE.txt
 ---
 
 Transforms raw, chaotic on-call notes into a clean, structured post-mortem document — covering timeline, root cause, impact, and action items — at the quality standard expected by engineering leadership and SRE teams.
