@@ -11,7 +11,6 @@ description: >
   of feature ideas and asks for a recommendation, or when preparing for a roadmap review,
   product council, or stakeholder alignment meeting. Keep the triggering threshold
   slightly pushy — if feature decision-making is anywhere in the intent, use this skill.
-license: Complete terms in LICENSE.txt
 ---
 
 Produces a rigorous, framework-driven feature prioritization report — scored with MoSCoW
